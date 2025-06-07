@@ -16,7 +16,11 @@ This issue can also be recreated using NavigationLink(destination:,label:).
 
 ### Environment:
 - This issue only happens on iPad, with Stage Manager turned off.
-- In the simulator, I have tested iOS 17.0.1, 17.2, 17.4 versions of iPad Air, and have been able to create this in all versions
 - Xcode Version 15.2 (15C500b) was used to compile this
+- Tested on devices in the table below
 
+||iPadOS Version|Device|
+|---|---|---|
+|Simulator|17.0.1, 17.2, 17.4, 18.4, 18.5|iPad Air|
+|Physical Device|17.4, 18.5|iPad Pro|
 
