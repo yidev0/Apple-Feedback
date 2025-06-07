@@ -24,3 +24,5 @@ This issue can also be recreated using NavigationLink(destination:,label:).
 |Simulator|17.0.1, 17.2, 17.4, 18.4, 18.5|iPad Air|
 |Physical Device|17.4, 18.5|iPad Pro|
 
+### Preview:
+<img src="Sample.gif" alt="Screen recording of the issue, with the text in the navigation bar disappearing">
