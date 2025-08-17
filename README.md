@@ -10,3 +10,4 @@ This repo is a collection of SwiftUI/UIKit related feedbacks sent to Apple.
 ||FB17272703|Form with DisclosureGroup showing a LazyVGrid with spacing 4 and adaptive grid item causes app to crash|
 ||FB19349243|TabSection("Title") interprets "Title" as String rathar than LocalizedStringKey|
 ||FB19542167|sectionActions(content:) does not appear when used in a Form|
+||FB19425090|Xcode rewrites .xccurrentversion and selects wrong Core Data model based on alphabetical order|
